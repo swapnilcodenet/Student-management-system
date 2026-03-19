@@ -14,7 +14,7 @@ A simple command-line application to manage student records. It allows adding, v
 ## How to Run
 
 ```bash
-python student_system.py
+python student_tracker.py
 ```
 
 ## Concepts Used
